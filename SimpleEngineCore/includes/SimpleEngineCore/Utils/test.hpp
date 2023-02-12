@@ -1,0 +1,4 @@
+namespace SimpleEngine
+{
+	int checkGLFW();
+}
